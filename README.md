@@ -35,7 +35,7 @@ Parkinson's is often diagnosed too late. This tool tries to solve that by digiti
 
 1.  **Clone this repo**
     ```bash
-    git clone [https://github.com/YourUsername/NeuroLens.git](https://github.com/srikrishna9458/NeuroLens-Parkinsons-Detector.git)
+    git clone [https://github.com/srikrishna9458/NeuroLens-Parkinsons-Detector.git](https://github.com/srikrishna9458/NeuroLens-Parkinsons-Detector.git)
     cd NeuroLens
     ```
 2.  **Install the libraries**
@@ -64,4 +64,5 @@ To make this hospital-ready, the next step is to add Machine Learning. I plan to
 3.  Test it against medical datasets.
 
 ---
+
 **Author:** G Sri krishnan
