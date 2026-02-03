@@ -9,7 +9,7 @@ It looks for two things that are hard for humans to catch:
 ##  The Goal
 Parkinson's is often diagnosed too late. This tool tries to solve that by digitizing the standard neurological exam. Instead of guessing, it uses computer vision and audio analysis to give you a concrete score.
 
-## ⚙️ How It Works
+##  How It Works
 
 ### 1. The Vision Test (Hypomimia)
 * **What it does:** It tracks 468 points on your face using **Google MediaPipe**.
@@ -47,7 +47,7 @@ Parkinson's is often diagnosed too late. This tool tries to solve that by digiti
     python main.py
     ```
 
-### 🎮 Controls
+###  Controls
 * **Press `V`** -> Go to **Visual Test**. (Smile and press Spacebar).
 * **Press `A`** -> Go to **Audio Test**. (Press 'S' and say 'Ahhh').
 * **Press `Q`** -> Quit.
@@ -61,4 +61,5 @@ Right now, this is a **Feature Extraction Prototype**. It uses math rules and ge
 ---
 
 **Author:** G Sri krishnan
+
 
