@@ -1,4 +1,4 @@
-# NeuroLens: Parkinson's Symptom Detector 🧠
+# NeuroLens: Parkinson's Symptom Detector 
 
 NeuroLens is a desktop app that helps screen for early signs of Parkinson's Disease using your webcam and microphone.
 
@@ -6,7 +6,7 @@ It looks for two things that are hard for humans to catch:
 1.  **Facial Masking:** When you think you're smiling, but your face muscles don't move enough.
 2.  **Voice Tremors:** Tiny vibrations in your voice that indicate instability.
 
-## 🎯 The Goal
+##  The Goal
 Parkinson's is often diagnosed too late. This tool tries to solve that by digitizing the standard neurological exam. Instead of guessing, it uses computer vision and audio analysis to give you a concrete score.
 
 ## ⚙️ How It Works
@@ -23,7 +23,7 @@ Parkinson's is often diagnosed too late. This tool tries to solve that by digiti
 
 ---
 
-## 🛠️ Built With
+##  Built With
 * **Python** (The brain of the app)
 * **OpenCV** (For the camera)
 * **MediaPipe** (For face tracking)
@@ -31,7 +31,7 @@ Parkinson's is often diagnosed too late. This tool tries to solve that by digiti
 
 ---
 
-## 🚀 How to Run It
+##  How to Run It
 
 1.  **Clone this repo**
     ```bash
@@ -54,15 +54,11 @@ Parkinson's is often diagnosed too late. This tool tries to solve that by digiti
 
 ---
 
-## ⚠️ A Note on the Tech
+##  A Note on the Tech
 Right now, this is a **Feature Extraction Prototype**. It uses math rules and geometry to detect symptoms.
 
-**What's Next? (The Roadmap)**
-To make this hospital-ready, the next step is to add Machine Learning. I plan to:
-1.  Collect real patient data.
-2.  Train an AI model (like an LSTM) on these geometric features to improve accuracy.
-3.  Test it against medical datasets.
 
 ---
 
 **Author:** G Sri krishnan
+
